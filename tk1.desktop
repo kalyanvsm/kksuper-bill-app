@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=tk1
+Exec=/home/kvsm007/shop/.venv/bin/python3 /home/kvsm007/shop/tk1.py
+Type=Application
